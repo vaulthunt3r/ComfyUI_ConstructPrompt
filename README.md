@@ -19,10 +19,10 @@ A lightweight tag loader for ComfyUI. Inspired by *Eclipse Smart Prompt*, but wi
 
 | Mode | Description |
 |-------|---------|
-| **None** | Empty string |
-| **Random** | One random tag from the file |
-| **Manual** | Text from the `tag_text` field |
-| **Show tags for the selected file (multiline)** | **All file contents line by line** (as is, without comments) |
+| **🚫None** | Empty string |
+| **🎲Random** | One random tag from the file |
+| **✏️Manual** | Text from the `tag_text` field |
+| **🔎Show tags for the selected file (multiline)** | **All file contents line by line** (as is, without comments) |
 
 ### 🔍 Multiline Mode — How it Works
 
