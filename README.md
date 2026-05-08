@@ -11,7 +11,7 @@ A lightweight tag loader for ComfyUI. Inspired by *Eclipse Smart Prompt*, but wi
 
 ## 📦 Installation
 1. Open the `ComfyUI/custom_nodes/` folder
-2. Run: `git clone https://github.com/YOUR_NICK/ComfyUI-ConstructPrompt.git`
+2. Run: `git clone https://github.com/vaulthunt3r/ComfyUI-ConstructPrompt.git`
 3. Restart ComfyUI
 4. Create a `tags/` folder inside the downloaded folder and add your tags `.txt` files
 
